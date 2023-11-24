@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **amineidrissis12@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mohamed-amine-salih-idrissi/](https://www.linkedin.com/in/mohamed-amine-salih-idrissi/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohamed-amine-salih-idrissi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-amine-salih-idrissi" height="30" width="40" /></a>
